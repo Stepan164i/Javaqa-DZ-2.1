@@ -4,10 +4,8 @@ public class Main {
         current = 2_000_000_000;
         int transfer;
         transfer = 500_000_000;
-        long total;
+        int total;
         total = current + transfer;
         System.out.println(total);
-
     }
 }
-
